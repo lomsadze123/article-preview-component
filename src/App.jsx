@@ -27,7 +27,6 @@ const Body = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-
   main {
     background-color: white;
     border-radius: 0.8rem;
@@ -40,6 +39,7 @@ const Body = styled.div`
     main {
       display: flex;
       max-width: 85rem;
+      margin-right: 6rem;
     }
   }
 `;
